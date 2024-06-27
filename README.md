@@ -1,0 +1,1 @@
+# Slope-stability-analysis-using-Artificial-Neural-Network-ANN-
